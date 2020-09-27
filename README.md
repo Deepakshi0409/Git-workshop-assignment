@@ -4,4 +4,3 @@
 - Pushkar Anand
 
 ## Participants
-- Deepakshi I
